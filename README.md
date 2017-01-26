@@ -1,4 +1,6 @@
 # whack-a-mole
+February 2016
+
 Whack-A-Mole with LEDs
 
 Built an electronic game that imitates Whack-A-Mole. LED lights blink arbitrarily with a beeping noise and the user
